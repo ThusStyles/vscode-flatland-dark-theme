@@ -3,11 +3,11 @@
     "displayName": "Flatland Dark",
     "publisher": "TheoStyles",
     "description": "",
-    "version": "0.0.1",
+    "version": "0.1.0",
     "repository": {
         "type": "git",
         "url": "https://github.com/ThusStyles/vscode-flatland-dark-theme.git"
-      },
+    },
     "engines": {
         "vscode": "^1.50.0"
     },
