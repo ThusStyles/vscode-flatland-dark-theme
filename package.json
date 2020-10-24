@@ -1,0 +1,21 @@
+{
+    "name": "flatlanddark",
+    "displayName": "Flatland Dark",
+    "description": "",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.50.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Flatland Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/FlatlandDark-color-theme.json"
+            }
+        ]
+    }
+}
