@@ -3,7 +3,7 @@
     "displayName": "Flatland Dark",
     "publisher": "TheoStyles",
     "description": "",
-    "version": "0.1.0",
+    "version": "0.2.0",
     "scripts": {
         "push": "git pull && git add . && git commit -m build && git push"
     },
