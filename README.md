@@ -1,9 +1,11 @@
 # Flatland Dark Theme for VS Code
 
 ## Screenshots
-![alt text](image-1.png "JS")
-![alt text](image-2.png "CSS")
-![alt text](image-3.png "HTML")
+<img src="https://github.com/ThusStyles/vscode-flatland-dark-theme/blob/main/image-1.png?raw=true" alt="Screenshot" width="980">
+<img src="https://github.com/ThusStyles/vscode-flatland-dark-theme/blob/main/image-2.png?raw=true" alt="Screenshot" width="980">
+<img src="https://github.com/ThusStyles/vscode-flatland-dark-theme/blob/main/image-3.png?raw=true" alt="Screenshot" width="980">
+
+
 
 ## Installation
 Launch VS Code Quick Open (⌘+P), paste the following command, and press enter.     
