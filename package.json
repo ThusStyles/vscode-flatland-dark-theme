@@ -3,7 +3,7 @@
     "displayName": "Flatland Dark Theme",
     "publisher": "TheoStyles",
     "description": "Flatland Dark Theme for Visual Studio Code",
-    "version": "0.7.0",
+    "version": "0.8.0",
     "scripts": {
         "push": "git pull && git add . && git commit -m build && git push"
     },
