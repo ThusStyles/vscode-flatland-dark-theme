@@ -27,6 +27,9 @@
 		"statusBar.background": "#4b4f53",
 		"menu.background": "#4b4f53",
 		"sideBarSectionHeader.background": "#4b4f53",
+		"list.focusBackground": "#2095f0",
+		"list.focusForeground": "#fff",
+		"list.highlightForeground": "#fff",
 		"list.activeSelectionBackground": "#2095f0",
 		"gitDecoration.addedResourceForeground": "#b8d977",
 		"gitDecoration.modifiedResourceForeground": "#72AACA",
@@ -865,7 +868,21 @@
 		"settings": {
 		  "foreground": "#F6F080"
 		}
-	  },
+		},
+		{
+			"name": "jsx:",
+			"scope": "variable.other.readwrite.js.jsx",
+			"settings": {
+				"foreground": "#FB9A4B"
+			}
+			},
+			{
+				"name": "jsx:",
+				"scope": ["punctuation.definition.template-expression.begin.js.jsx", "meta.brace.square.js.jsx", "punctuation.definition.template-expression.end.js.jsx"],
+				"settings": {
+					"foreground": "#fff"
+				}
+				},
 	],
 	"uuid": "13E579BF-40AB-42E2-9EAB-0AD3EDD88532"
   }
