@@ -4,6 +4,9 @@
     "publisher": "TheoStyles",
     "description": "",
     "version": "0.1.0",
+    "scripts": {
+        "push": "git pull && git add . && git commit -m build && git push"
+    },
     "repository": {
         "type": "git",
         "url": "https://github.com/ThusStyles/vscode-flatland-dark-theme.git"
