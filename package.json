@@ -3,11 +3,14 @@
     "displayName": "Flatland Dark Theme",
     "publisher": "TheoStyles",
     "description": "Flatland Dark Theme for Visual Studio Code",
-    "version": "0.6.0",
+    "version": "0.5.0",
     "scripts": {
         "push": "git pull && git add . && git commit -m build && git push"
     },
-    "repository": "https://github.com/ThusStyles/vscode-flatland-dark-theme",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/ThusStyles/vscode-flatland-dark-theme.git"
+    },
     "engines": {
         "vscode": "^1.50.0"
     },
