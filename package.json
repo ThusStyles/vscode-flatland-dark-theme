@@ -4,6 +4,11 @@
     "publisher": "TheoStyles",
     "description": "Flatland Dark Theme for Visual Studio Code",
     "version": "0.8.0",
+    "icon": "icon.png",
+    "galleryBanner": {
+        "color": "#26292C",
+        "theme": "dark"
+    },
     "scripts": {
         "push": "git pull && git add . && git commit -m build && git push"
     },
