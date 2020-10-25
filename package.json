@@ -3,7 +3,7 @@
     "displayName": "Flatland Dark Theme",
     "publisher": "TheoStyles",
     "description": "",
-    "version": "0.3.0",
+    "version": "0.4.0",
     "scripts": {
         "push": "git pull && git add . && git commit -m build && git push"
     },
