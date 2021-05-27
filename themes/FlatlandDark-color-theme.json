@@ -37,7 +37,7 @@
 		"gitDecoration.deletedResourceForeground": "#FFB454",
 		"gitDecoration.stageDeletedResourceForeground": "#FFB454",
 		"gitDecoration.untrackedResourceForeground": "#72AACA",
-		"gitDecoration.ignoredResourceForeground": "#72AACA",
+		"gitDecoration.ignoredResourceForeground": "#798188",
 		"gitDecoration.conflictingResourceForeground": "#72AACA",
 		"gitDecoration.submoduleResourceForeground": "#72AACA",
 		"breadcrumb.foreground": "#eee",
